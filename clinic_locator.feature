@@ -11,3 +11,4 @@ And user clicks on "Clinic locator"
 Then user enters a valid zipcode "22312" in the field Enter a Zip code or city & statefield
 And user verifies "5 Clinic(s) found near "22312"
 
+updated daria
