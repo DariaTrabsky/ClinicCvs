@@ -15,3 +15,4 @@ updated daria
 
   lalllalla
 ya fiksanul vse Dasha, kak bi ponyatiya est; no vse ravno gulyayu
+  ya eshe praktikuyu
