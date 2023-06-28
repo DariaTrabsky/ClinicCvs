@@ -12,3 +12,4 @@ Then user enters a valid zipcode "22312" in the field Enter a Zip code or city &
 And user verifies "5 Clinic(s) found near "22312"
 
 updated daria
+  Hello Dasha
